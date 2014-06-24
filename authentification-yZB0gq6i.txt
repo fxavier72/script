@@ -15,4 +15,5 @@ if($ligne = $resultatRecherche->fetch())
  }
 
  $resultat->closeCursor();
+echo 'test';
 ?>
